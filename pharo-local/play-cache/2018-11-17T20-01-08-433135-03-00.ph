@@ -1,1 +1,1 @@
-"Ocurrentes cuentaChar:'marta lucia rodrigo'""Ocurrencias ocurrencias:'lirio'"Enteros cadenaDeEnteros:'2 8 5 10 11 20'  numeroEntero:5 
+"Ocurrentes cuentaChar:'marta lucia rodrigo'""Ocurrencias ocurrencias:'lirio'"EnterosMultiplos  cadenaDeEnteros:'2 8 5 10 11 20'  numeroEntero:5 
